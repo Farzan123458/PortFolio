@@ -19,7 +19,7 @@ const Project = () => {
           <Image
             alt="gallery"
             className="absolute inset-0 w-full h-full object-cover object-center"
-            src={require("../../../Public/Pics/Calculator.jpg")}
+            src="/Pics/Calculator.jpg"
          
           />
           <div className="px-8 py-10 relative z-10 w-full border-4 border-gray-200 bg-white opacity-0 hover:opacity-100">
@@ -30,7 +30,7 @@ const Project = () => {
               Calculator
             </h1>
             <p className="leading-relaxed">
-              This is the project which I've created for make calculation easily. 
+              This is the project which I have created for make calculation easily. 
             </p>
             <Link target="_blank"href={"https://vercel.com/farzan-ahmeds-projects/calculator"}>
             <p className='leading-relaxed text-indigo-500 mb-1 hover:underline'>View Project </p>
