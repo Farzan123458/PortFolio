@@ -35,7 +35,7 @@ const Hero = () => {
         <Image
           className="object-cover object-center rounded-full"
           alt="hero"
-          src={require("../../../Public/Pics/Farzan.jpg")}
+          src="/Pics/Farzan.jpg"
           
         />
       </div>
