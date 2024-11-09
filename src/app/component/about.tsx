@@ -22,7 +22,7 @@ const About = () => {
          I am Farzan Ahmed Studied at FUUAST (Gulshan Campus) In 2nd Semester Of Microbiology. 
         </p>
         <p className="mb-5 leading-relaxed">
-         I've also enrolled in Generative AI Governor Initiative Program at Governor House. 
+         I have also enrolled in Generative AI Governor Initiative Program at Governor House. 
         </p>
         <Link target='blank_' href="/CV/my CV.pdf">
         <button className="text-white bg-indigo-500 border-0 py-2 px-6 focus:outline-none hover:bg-indigo-600 rounded text-lg">
