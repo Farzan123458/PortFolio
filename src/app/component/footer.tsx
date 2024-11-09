@@ -2,7 +2,6 @@ import React from 'react'
 import { FaGithub } from "react-icons/fa";
 import Image from 'next/image';
 import Link from 'next/link';
-import { IoLogoLinkedin } from "react-icons/io5";
 
 const Footer = () => {
   return (
@@ -10,7 +9,7 @@ const Footer = () => {
 <footer className="text-gray-600 body-font bg-black">
   <div className="container px-5 py-8 mx-auto flex items-center sm:flex-row flex-col">
     <a className="flex title-font font-medium items-center md:justify-start justify-center text-gray-900">
-    <Image src={require("../../../Public/Pics/Dev.jpg")} 
+    <Image src="/Pics/Dev.jpg"
                     alt="Farzan Ahmed"
                     width={100}
                     height={100}
