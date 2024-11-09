@@ -11,7 +11,7 @@ const Navbar = () => {
             <header className="text-orange-600 body-font bg-black">
             <div className="container mx-auto flex flex-wrap p-7 flex-col md:flex-row items-center">
                 <a className="flex title-font font-medium items-center text-purple-900 mb-4 md:mb-0">
-                    <Image src={require("../../../Public/Pics/Dev.jpg")} 
+                    <Image src="/Pics/Dev.jpg"
                     alt="Farzan Ahmed"
                     width={100}
                     height={100}
